@@ -7,3 +7,7 @@ faiss-cpu
 sentence-transformers
 streamlit
 python-dotenv
+beautifulsoup4
+pygithub
+markdown
+duckduckgo-search
